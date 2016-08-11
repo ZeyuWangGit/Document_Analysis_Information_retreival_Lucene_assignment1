@@ -1,0 +1,6 @@
+Found 5 hits  for query Obama:
+1. (0.1022) src/search/doc1.txt
+2. (0.0903) src/search/doc2.txt
+3. (0.0452) src/search/doc4.txt
+4. (0.0447) src/search/doc3.txt
+5. (0.0383) src/search/doc5.txt
